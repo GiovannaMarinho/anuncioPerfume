@@ -1,0 +1,19 @@
+.font-1 {
+  font: 600 13px 'Montserrat';
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+.font-2 {
+  font: 700 32px 'Fraunces';
+  line-height: 32px;
+}
+.font-3 {
+  font: 500 14px 'Montserrat';
+  line-height: 23px;
+}
+.font-4 {
+  font: 700 12px 'Fraunces';
+}
+.font-5 {
+  font: 700 14px 'Montserrat';
+}
